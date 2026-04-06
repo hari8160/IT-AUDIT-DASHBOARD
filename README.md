@@ -10,28 +10,39 @@ This dashboard transforms raw transaction data into meaningful visual insights, 
 
 🔍 Key Features
 📊 KPI Dashboard — Revenue, Orders, High-Risk Transactions, Duplicates, Pending Approvals
+
 📈 Interactive Charts — Sales trends, fabric category analysis, payment distribution
+
 🚨 Anomaly Detection — Detects high-value, duplicate, and suspicious transactions
+
 📑 Transaction Ledger — Detailed records with risk scores and audit status
+
 ⚠️ Risk Management — High / Medium / Low classification with visual insights
+
 📋 Audit Reports — Critical, Major, and Minor findings with recommendations
+
 🏭 Inventory Insights — Stock monitoring and supplier analysis
+
 ⚙️ System Settings — Alerts, access control, and audit configurations
+
 🛠 Tech Stack
 HTML5
 CSS3
 Vanilla JavaScript
 Chart.js
+
 📊 Audit Scope
 Company: Akshya Impex
 Domain: Textile Industry
 Audit Period: Q1 2026
 Modules Covered: Sales, Inventory, Transactions, Risk Analysis
+
 📌 Highlights
 Realistic dummy enterprise data
 Clean and professional UI design
 Fully responsive dashboard layout
 Simulates real audit workflows
+
 🎯 Use Case
 
 This project is ideal for:
